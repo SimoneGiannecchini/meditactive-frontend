@@ -13,7 +13,7 @@ import {
 import { useEffect, useState } from "react";
 import "./style.css";
 
-const API_URL = "http://localhost:3000/api";
+const API_URL = "https://meditactive-backend.onrender.com/api";
 
 function App() {
   const [users, setUsers] = useState([]);
