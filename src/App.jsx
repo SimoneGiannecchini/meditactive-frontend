@@ -390,7 +390,7 @@ function App() {
       <aside className="sidebar">
         <div className="logo">
   <img
-    src="/loto.png"
+    src={`${import.meta.env.BASE_URL}loto.png`}
     alt="MeditActive"
     className="logoIconImage"
   />
