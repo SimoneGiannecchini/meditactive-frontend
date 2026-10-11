@@ -8,8 +8,10 @@ Questo repository contiene il **frontend** dell'applicazione, sviluppato con **R
 
 ## 🌐 Demo Live
 
-👉 https://simonegiannecchini.github.io/meditactive-frontend/
-👉  https://github.com/SimoneGiannecchini/meditactive-backend/
+👉  **FRONTEND - Demo online **
+https://simonegiannecchini.github.io/meditactive-frontend/
+👉 ** Backend - Repository Github **
+https://github.com/SimoneGiannecchini/meditactive-backend/
 
 ### ⚠️ Nota sulla Demo
 
