@@ -203,7 +203,7 @@ Il progetto permette di gestire dati persistenti attraverso operazioni CRUD e di
 Progetto realizzato nell'ambito del percorso di formazione in **Full Stack Development**.
 
 GitHub:  
-https://github.com/SimoneGiannecchini.github.io
+https://github.com/SimoneGiannecchini/SimoneGiannecchini.github.io
 
 ---
 
